@@ -1,3 +1,9 @@
+//
+//Cracking the Coding Interview
+//Chapter 1 Problem 6
+// String Compression implement a method to perform basic string compression
+// if the compressed string is not smaller than the original it will return the original
+
 import java.util.Scanner;
 
 public class Chap1StringCompression {
